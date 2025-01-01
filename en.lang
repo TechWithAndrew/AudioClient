@@ -32,7 +32,7 @@ home.activateHeader=Click here to connect
 home.welcome=Welcome, %player!
 home.header=Welcome to our audio client! keep this page open to experience our in-game music and effects. You can get back here any time during your session to change your volume and settings.
 home.volumeContext=This slider controls the volume of in-game music and effects. You can also use <pre>/volume &lt;volume&gt;</pre> to change your volume from in game at any time, or just set it to 0 to mute it momentarily.
-home.audioControls=Audio controls
+home.audioControls=Audio Experience
 home.notificationsTitle=Notifications
 home.notificationsEmpty=You don't have any notifications at the moment
 
