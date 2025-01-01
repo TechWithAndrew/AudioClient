@@ -20,9 +20,9 @@ navbar.upgradeRequired=Upgrade required
 navbar.isPlaying=Playing music
 navbar.menu=Open menu
 
-home.confirmLoginHeader=Welcome back <i>%player</i>!
-home.confirmLoginBody=Are you trying to login as <i>%player</i>?<br />If you are not, please close this window.
-home.confirmLoginButton=Start audio session
+home.confirmLoginHeader=Welcome back!
+home.confirmLoginBody=Are you trying to join as <i>%player</i>?<br />If you are not, please close this window.
+home.confirmLoginButton=Start audio Experience
 home.confirmLoginWithVoicechat=Start session with VoiceChat
 
 home.activate=Activate session
