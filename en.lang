@@ -31,6 +31,7 @@ home.clickAnywhere=Click anywhere to get started
 home.activateHeader=Click here to connect
 home.welcome=Welcome, %player!
 home.header=Welcome to Enchanted Heights! This magical world invites players to explore, create, and connect in an environment brimming with wonder and excitement.
+home.volumeContext=Welcome to Enchanted Heights! This magical world invites players to explore, create, and connect in an environment brimming with wonder and excitement.
 home.audioControls=Audio Experience
 home.notificationsTitle=Notifications
 home.notificationsEmpty=You don't have any notifications at the moment
